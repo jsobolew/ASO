@@ -1,0 +1,6 @@
+,preprocess,inference,postprocess,sum,,,,
+yolov8n,2,26,5,33,,,,
+yolov8s,3,65,2,70,,,,
+yolov8m,2,112,2,116,,,,
+yolov8l,3,82,2,87,,,,
+yolov8x,1,32,1,34,,,,
